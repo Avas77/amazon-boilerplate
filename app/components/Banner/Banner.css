@@ -1,0 +1,6 @@
+.Banner {
+  background-image: url('../../images/banner.jpg');
+  min-height: 600px;
+  background-position: center;
+  background-size: cover;
+}
